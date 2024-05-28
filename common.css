@@ -1,0 +1,55 @@
+body {
+  margin: 0%;
+  font-family: "Poppins", sans-serif;
+}
+
+.wrapper {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.arrange-left {
+  float: left;
+}
+
+.width-25 {
+  width: 25%;
+}
+
+.width-33 {
+  width: 33.3%;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.width-75 {
+  width: 75%;
+}
+
+.common-btn {
+  height: 40px;
+  border-radius: 0;
+  font-size: 18px;
+  border: 1px solid#ddd;
+  color: rgba(192, 108, 212, 0.932);
+  min-width: 54px;
+  text-align: center;
+  background-color: #fff;
+  margin-right: 8px;
+}
+
+.common-btn span {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.common-btn span i {
+  padding-right: 7px;
+  padding-left: 4px;
+}
+
+.next-row {
+  clear: both;
+}
